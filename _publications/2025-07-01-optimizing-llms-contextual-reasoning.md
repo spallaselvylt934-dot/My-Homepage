@@ -12,4 +12,4 @@ bibtexurl: 'http://yourwebsite.com/files/bibtex-optimizing-llms.bib'
 citation: 'John Smith, et al. (2025). "Optimizing Large Language Models for Contextual Reasoning in Multi-Task Environments." <i>Accepted at COAI 2025 - Conference on Artificial Intelligence</i>.'
 ---
 
-Code availability: the implementation has not been open-sourced yet; the repository is still marked as "to be released".
+Code availability: not yet publicly released. The implementation repository is coming soon.
